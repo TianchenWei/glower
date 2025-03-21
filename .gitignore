@@ -39,7 +39,6 @@ Thumbs.db
 build/
 dist/
 out/
-bin/
 obj/
 *.suo
 *.user
