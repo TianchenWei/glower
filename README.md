@@ -1,4 +1,5 @@
-# glower
+
+### glower
 A tool box for glow developers
 
 1. change `user` and `host` in `glower/init.sh` to your own user and host.
@@ -25,3 +26,5 @@ sbt run your/path/to/test/test_user.py --upload-parent (must be used with --uplo
 #### run a single function in test_user.py
 sbt run your/path/to/test/test_user.py test_example
 
+### deploy_sandbox_server
+This is another tool written by Alias, deploy entire service to sandbox. See its readme for more info. Consult Alia if has problem in usage.
