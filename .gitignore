@@ -1,0 +1,54 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+*/ehthumbs.db
+*/ehthumbs_vista.db
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# IDE/Editor #
+##############
+.idea/
+*.iml
+.vscode/
+build/
+dist/
+out/
+bin/
+obj/
+*.suo
+*.user
+*.user.*
+*.swp
+*~
+*.pyc
+__pycache__/
+node_modules/
+package-lock.json
+yarn.lock
+.env
