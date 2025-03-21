@@ -27,4 +27,4 @@ sbt run your/path/to/test/test_user.py --upload-parent (must be used with --uplo
 sbt run your/path/to/test/test_user.py test_example
 
 ### deploy_sandbox_server
-This is another tool written by Alias, deploy entire service to sandbox. See its readme for more info. Consult Alia if has problem in usage.
+This is another tool written by Alia, deploy entire service to sandbox. See its readme for more info. Consult Alia if has problem in usage.
